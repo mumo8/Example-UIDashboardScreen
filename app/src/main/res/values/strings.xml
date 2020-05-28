@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DashboardScreen</string>
+    <string name="hello_user">Hello, </string>
+    <string name="user">User</string>
+    <string name="dummyText">Aplikasi ini merupakan aplikasi yang dibuat secara khusus oleh Muhammad Rafli Naufal yang dikhususkan untuk belajar Andoird Pemula</string>
+    <string name="trending">Trending</string>
+    <string name="work">Work</string>
+    <string name="team">Team</string>
+    <string name="calendar">Calendar</string>
+    <string name="home">Home</string>
+</resources>
